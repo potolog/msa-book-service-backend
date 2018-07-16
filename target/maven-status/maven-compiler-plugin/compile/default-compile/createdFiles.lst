@@ -1,0 +1,10 @@
+com/amano/springboot/repository/UserGroupRepository.class
+com/amano/springboot/serice/UserService.class
+com/amano/springboot/Application.class
+com/amano/springboot/serice/BookService.class
+com/amano/springboot/controller/UserRestController.class
+com/amano/springboot/model/UserGroup.class
+com/amano/springboot/model/User.class
+com/amano/springboot/model/Book.class
+com/amano/springboot/repository/BookRepository.class
+com/amano/springboot/repository/UserRepository.class
